@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+.all{
+    background-image: url("https://ik.imagekit.io/fvvpvzst8/chatbg.png?updatedAt=1701191313628");
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+
+}
+.name{
+    background-color: #323f4b;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    width: 21.5vw;
+    margin-bottom:40px ;
+}
+.chat1{
+    color: #ffffff;
+    background-color: #47a3f3;
+    width: 21.1vw;
+    text-align: end;
+    padding: 10px;
+    margin-left: 14px;
+    border-radius: 8px 8px 0px 8px;
+   margin-top: 25px;
+}
+.chat2{
+    background-color: #52606d;
+    color: #ffffff;
+    width: 21.1vw;
+    text-align: start;
+    padding: 10px;
+    margin-left: 14px;
+    border-radius: 6px 6px 6px 0px;
+    margin-top: 25px;
+}
